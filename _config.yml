@@ -1,0 +1,20 @@
+# _config.yml
+
+title: "Top Design Patterns and SOLID Interview Questions"
+baseurl: ""  # leave empty if deploying on a user/organization site
+url: "https://reiarseni.github.io/design-patterns-solid-guide"
+
+# Multilingual settings
+languages: ["en", "es"]
+default_lang: "en"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins (if needed)
+plugins:
+  - jekyll-multiple-languages-plugin
+
+# Note: GitHub Pages supports a limited set of plugins. 
+# If jekyll-multiple-languages-plugin is not whitelisted, consider building locally or using GitHub Actions.
